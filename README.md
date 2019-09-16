@@ -10,6 +10,6 @@ Possessing a growth mindset is an extremely helpful tool in both your personal a
 - Take care of yourself and decrease stressors so you can upkeep a growth mindset.
 
 
-
+## About Me
 
 You can check out my GitHub profile [here](https://github.com/KrystalMadrinan). 
