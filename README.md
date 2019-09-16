@@ -16,4 +16,4 @@ Hi! I'm Krystal. I recently moved to Seattle and I'm loving it. My life currentl
 Check out my GitHub profile [here](https://github.com/KrystalMadrinan). 
 If you would like to connect with me, feel free to add me on [LinkedIn](www.linkedin.com/in/krystal-madrinan).
 
-:EMOJICODE: :dancer:
+
