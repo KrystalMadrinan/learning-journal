@@ -1,6 +1,6 @@
 # Krystal Madrinan's Learning Journal
 
-This is considered content.
+***Growth Mindset***
 
 ### TODO list
 - learn the things
