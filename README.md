@@ -14,6 +14,6 @@ Possessing a growth mindset is an extremely helpful tool in both your personal a
 Hi! I'm Krystal. I recently moved to Seattle and I'm loving it. My life currently consists of learning to code, self-care, and staying active. I attend classes at Code Fellows and it's great so far.
 
 Check out my GitHub profile [here](https://github.com/KrystalMadrinan). 
-If you would like to connect with me, feel free to add me on [LinkedIn](www.linkedin.com/in/krystal-madrinan).
+If you would like to connect with me, feel free to add me on [LinkedIn](https://www.linkedin.com/in/krystal-madrinan).
 
 
