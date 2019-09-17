@@ -13,6 +13,7 @@ For record and reference, here's a [cheat sheet for terminal shortcuts on a Mac]
 
 #### ***Resources:***
 [Choosing a Text Editor](https://web.archive.org/web/20190113051315/https://medium.com/@theoldercoder/choosing-a-text-editor-3e56f71bd636?source=topic_page---------5------------------1)
+[Basic Explanation of a Terminal on Mac](https://www.techopedia.com/definition/28747/mac-terminal-mac-os-x)
 ## About
 Check out my GitHub profile [here](https://github.com/KrystalMadrinan). 
 If you would like to connect, feel free to add me on [LinkedIn](https://www.linkedin.com/in/krystal-madrinan).
