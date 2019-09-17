@@ -1,7 +1,7 @@
 # The Basics of Text Editors
 #### ***What is a text editor?***
 
-Just as it sounds like, a text editor is a computer software that you can download to write and edit text. For example, Microsfot Word is a basic text editor - a word processor. In the world of web development, different text editors are used that are specifically for code - which is different from the "what you see is what you get" style of word processing software.
+When you hear the phrase "text editor," you may think of something like Microsoft Word or Google Docs. Word processors are technically text editors in the literal sense, but in the world of web development, different text editors are used that are specifically for code - which is different from the "what you see is what you get" style of word processing software.
 
 #### ***Your Options for Text Editors***
 
