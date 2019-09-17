@@ -13,4 +13,4 @@ When you hear the phrase "text editor," you may think of something like Microsof
 [Choosing a Text Editor](https://web.archive.org/web/20190113051315/https://medium.com/@theoldercoder/choosing-a-text-editor-3e56f71bd636?source=topic_page---------5------------------1)
 ## About
 Check out my GitHub profile [here](https://github.com/KrystalMadrinan). 
-If you would like to connect with me, feel free to add me on [LinkedIn](https://www.linkedin.com/in/krystal-madrinan).
+If you would like to connect, feel free to add me on [LinkedIn](https://www.linkedin.com/in/krystal-madrinan).
