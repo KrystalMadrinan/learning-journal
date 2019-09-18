@@ -7,7 +7,8 @@
 - An attribute is used to identify one element from another. They are located within opening tags. 
 - Example on how to multiply something: section>article>*3
 - Main is a component of the body. 
-
+- Any javascript is placed at the end of the body, so that it loads last.
+*Reminder to keep adding to this*
 
 #### ***Helpful Resources***
 - Lecture
