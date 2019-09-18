@@ -4,7 +4,7 @@
 When you hear the phrase "text editor," you may think of something like Microsoft Word or Google Docs. Word processors are technically text editors in the literal sense, but in the world of web development, different text editors are used that are specifically for code - which is different from the "what you see is what you get" style of word processing software.
 
 #### ***Your Options for Text Editors***
-There are different types of text editors out there for use. One can come with your computer such as NotePad, or you can download a third party text editor such as Visual Studio Code or Sublime Text. Whichever one you use would depend on your needs and preferences. 
+There are different types of text editors out there for use. One can come with your computer such as NotePad, or you can download a third party text editor such as Visual Studio Code or Sublime Text. Whichever one you use would depend on your needs and preferences. Visual Studio Code is the text editor we are using in class. 
 
 
 
