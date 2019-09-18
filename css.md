@@ -7,7 +7,7 @@
 - A selector indicates which element in HTML a rule apploes to.
 - The declaration actually says how the elment should be styled. 
 - Within declarations, you have property: value 
-> e.g, color: blue 
+    * e.g, color: blue 
 - There are so many types of selectors, but you can always google them.
 - You can create rules that can override elements when concerned with the last rule and specificity. 
 - Color and border properties are not inherited by the children, but font is, within the body element. 
