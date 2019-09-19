@@ -1,6 +1,6 @@
 # Notes on Javascript thus far
 
-### ***General Javascript Info***
+### ***Javascript Reading 6 Notes***
 
 - One of the main purposes of javascript is for page functionality - for example, pop ups!
 - It's also responsible for interaction and animations.
@@ -9,9 +9,21 @@
 - The extension for javascript is .js
 - *Use the HTML `<script>` element when using JS with a webpage. The src attribute indicated where the JS file is stored.*
 
-### ***Javascript***
+- You can set conditionals in Javascript. example:
 
-- 
+`var today = new Date();
+var hourNow = today.getHours();
+var greeting;
+
+if (hourNow > 18) {
+    greeting = 'Good evening!';
+} else if (hourNow > 12) {
+    greeting = 'Good afternoon!';
+} else if (hourNow > 0) {
+    greeting = 'Good morning!';
+} else {
+    greeting = 'Welcome!';
+}`
 
 #### ***Helpful Resources***
 - Lecture
